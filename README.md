@@ -10,7 +10,7 @@ Machine Learning experiments (DQR + predictions) on an example dataset.
 
 # Install dependencies
 
-`pip install pandas numpy plotly sklearn`
+`pip install pandas numpy plotly sklearn scipy`
 
 # How to use
 
@@ -42,4 +42,4 @@ We can now generate the prediction model (from a % of the input data), and test 
 
 # Copyrights
 
-Refer to the `README.md` file in the `./data` directory for input data licensing notes.
+Refer to the `README.txt` file in the `./data` directory for input data licensing notes.
