@@ -1,5 +1,10 @@
 #!/usr/bin/env python3 -W ignore::DeprecationWarning
 
+####
+# lab-machinelearning
+# Valerian Saliou <valerian@valeriansaliou.name>
+####
+
 import pandas
 
 from random import random

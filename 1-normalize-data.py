@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+####
+# lab-machinelearning
+# Valerian Saliou <valerian@valeriansaliou.name>
+####
+
 import pandas
 
 
